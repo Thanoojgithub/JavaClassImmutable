@@ -18,3 +18,11 @@ Features of immutable classes:
   make all member variable private & final
   do not give their setter methods
   object reference should not be leaked during construction phase
+----------------------------------------------------------------------------------------
+output:
+Mon Jul 06 17:25:09 IST 2015
+Mon Jul 06 17:25:09 IST 2015
+
+Exception in thread "main" java.lang.UnsupportedOperationException
+	at java.util.Collections$UnmodifiableMap.put(Collections.java:1342)
+	at com.corejava.CorejavaOne.main(CorejavaOne.java:20)
