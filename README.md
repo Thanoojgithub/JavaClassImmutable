@@ -21,8 +21,8 @@ Features of immutable classes:
   
 ----------------------------------------------------------------------------------------
 output:
-Mon Jul 06 17:25:09 IST 2015
-Mon Jul 06 17:25:09 IST 2015
+ Mon Jul 06 17:25:09 IST 2015
+ Mon Jul 06 17:25:09 IST 2015
 
 Exception in thread "main" java.lang.UnsupportedOperationException
 	at java.util.Collections$UnmodifiableMap.put(Collections.java:1342)
